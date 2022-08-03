@@ -7,7 +7,7 @@ project:
     source_format: sfdx
     git:
         default_branch: "master"
-        repo_url: https://github.com/SalesforceLabs/AnimalShelterStarter
+        repo_url: https://github.com/sebastianocostanzo/AnimalShelterStarter
 
 tasks:
     robot:
