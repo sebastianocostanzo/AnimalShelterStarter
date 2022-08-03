@@ -27,6 +27,10 @@
                 <behavior>Edit</behavior>
                 <field>Animal__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>createAField__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
